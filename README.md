@@ -1,7 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nazariipastukh&card_width=1050px&theme=modern-lilac2)](https://git.io/streak-stats)
 <hr>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="60" height="60"/>&emsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="60" height="60"/>&emsp;&emsp;&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
